@@ -1,6 +1,6 @@
 - 👋 hi, I’m @creohn, you can call me DANA if you’re a human<br>
 - just here for the DataViz, UX, Iconography & Cats
-- IDK href="https://links.creohn.de">links.creohn.de</a>
+- IDK … here: some links https://links.creohn.de
 
 <!---
 creohn/creohn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
